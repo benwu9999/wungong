@@ -1,0 +1,9 @@
+/*$navBackgroundColor:#2E7AB3;
+$navColor:#E00037;*/
+
+.navbar {
+	/*background-color:$navBackgroundColor;
+	color:$navColor;*/
+	background-color:#2E7AB3;
+	color:#E00037;
+}
